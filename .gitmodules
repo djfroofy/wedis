@@ -1,0 +1,6 @@
+[submodule "lib/klein"]
+	path = lib/klein
+	url = git@github.com:djfroofy/klein.git
+[submodule "lib/txRedis"]
+	path = lib/txRedis
+	url = git@github.com:djfroofy/txRedis
